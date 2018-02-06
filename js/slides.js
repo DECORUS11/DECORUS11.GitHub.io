@@ -5,7 +5,7 @@
      .appendTo('#slideshow');
 
  
- }, 3500);
+ }, 2000);
 
 
  
