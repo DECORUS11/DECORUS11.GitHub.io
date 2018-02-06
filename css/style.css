@@ -1,0 +1,9 @@
+#slideshow img {
+  position: absolute;
+  margin: 10px 10px 10px 10px;
+  width: 95%;
+  min-height: 100px;
+  height: 500px;
+  max-height: 1000px;
+ 
+ }
