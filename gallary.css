@@ -1,0 +1,70 @@
+div{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 20px;
+
+	width: auto;
+	height: auto;
+	 
+}
+ 
+  
+img{
+ 
+	width: 300px;
+	height: auto;
+  	padding-top: 10px;
+  	padding-bottom: 10px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+
+	 
+
+}
+body{
+	background-color: black;
+	font-size: 20px;
+	text-align: center;
+ 	 font-family: fantasy;
+  	text-transform: capitalize;
+  	color: silver; 
+   
+
+}
+table{
+	height: auto;
+	width: 100%;
+	 
+	 
+}
+
+tr{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	 padding-top: 5px;
+	padding-bottom: 5px; 
+	width: 100%;
+	height: auto;
+
+}
+
+ 
+.gramsdetails{
+	background-color: red;
+	 padding-top: 5px;
+	padding-bottom: 5px;
+	 
+	width: 100%;
+	height: auto;
+}
+hr{	
+	background-color: silver;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+ 
+ .desc{
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ }
